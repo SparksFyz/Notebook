@@ -1,8 +1,8 @@
 ## The Attribute  Download Of HyperLink Tag
 
-> KeyWord : <a href="xxx.jpg" download="fileName.jpg"></a>
+> KeyWord : `<a href="xxx.jpg" download="fileName.jpg"></a>`
 
-data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAAEAAAAkCAYAAAB...
+
 
 ### Summary
 
