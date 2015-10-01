@@ -21,6 +21,10 @@ import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7
 5. Markdown Preview
 6. Color theme : Monokai extend
 7. Theme : Soda
+8. gitGutter
+9. knockdown
+10. sublime linter
+11. SideBarEnhancements
 
 ### config
 
@@ -39,7 +43,6 @@ import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7
     ],
     "caret_style": "phase",
     "color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
-    "font_face": "LiHei Pro",
     "font_options":
     [
         "subpixel_antialias"
