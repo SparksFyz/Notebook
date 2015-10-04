@@ -28,6 +28,8 @@
 
 > 如何看待angular1.2中引入的controller as语法？ 能解决什么样的问题？(scope)
 
+- 参见 [Link](https://github.com/SparksFyz/Notebook/blob/master/Frontend/Angular/controller_as.md)
+
 > angular依赖注入
 
 -  angular会将依赖的所有模块上的所有服务混入应用级别的单一命名空间内。所以，模块间可以相互依赖，不同模块间的服务可以相互依赖。这有一个问题就是会存在冲突的可能性。在需要使用的地方根据名称注入。 
