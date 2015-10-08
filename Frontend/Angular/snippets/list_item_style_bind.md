@@ -33,5 +33,12 @@ function ListCtrl($scope) {
 </ul>
 ```
 
+> 除了ng-class 还可以使用ng-style来做更精细的控制:
 
+```html
+<input type="number" ng-model="x" ng-init="x=12"/>
+<div ng-style="{'font-size': x+'pt'}">
+    测试字体大小
+</div>
+```
 
