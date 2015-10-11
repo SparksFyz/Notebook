@@ -10,7 +10,7 @@
 
 * Language
   * [JavaScript](#javascript)
-  * [C++](#c++)
+  * [CPP](#cpp)
   * [HTML/CSS](#css)
   * [Java](#java)
   * [PHP](#php)
@@ -46,7 +46,7 @@
   * CoffeeScript
     * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
 
-### C++
+### CPP
 
 ### CSS
   * [前端代码规范](http://alloyteam.github.io/CodeGuide/)
