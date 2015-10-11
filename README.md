@@ -11,7 +11,7 @@
 * Language
   * [JavaScript](#javascript)
   * [C++](#c++)
-  * [HTML/CSS](#html/css)
+  * [HTML/CSS](#css)
   * [Java](#java)
   * [PHP](#php)
   * [Python](#python)
@@ -46,9 +46,9 @@
   * CoffeeScript
     * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
 
-### C**
+### C++
 
-### HTML/CSS
+### CSS
   * [前端代码规范](http://alloyteam.github.io/CodeGuide/)
   * CSS禅意花园
 
@@ -60,7 +60,7 @@
 
 ### Ruby
 
-### Scale
+### Scala
 
 
 
