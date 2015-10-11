@@ -9,26 +9,26 @@
 ## 资源索引
 
 * Language
-  * [JavaScript](#JavaScript)
-  * [C**](#C**)
-  * [HTML/CSS](#HTML/CSS)
-  * [Java](#Java)
-  * [PHP](#PHP)
-  * [Python](#Python)
-  * [Ruby](#Ruby)
-  * [Scala](#Scala)
+  * [JavaScript](#javascript)
+  * [C++](#c++)
+  * [HTML/CSS](#html/css)
+  * [Java](#java)
+  * [PHP](#php)
+  * [Python](#python)
+  * [Ruby](#ruby)
+  * [Scala](#scala)
 
 * Non-Language
-  * [OS](#OS)
-  * [Web](#Web)
+  * [OS](#os)
+  * [Web](#web)
   * [WEB服务器](#WEB服务器)
-  * [NoSQL](#NoSQL)
-  * [MySQL](#MySQL)
+  * [NoSQL](#nosql)
+  * [MySQL](#mysql)
   * [机器学习](#机器学习)
   * [大数据](#大数据)
   * [编程艺术](#编程艺术)
   * [设计模式](#设计模式)
-  * [Git](#Git)
+  * [Git](#git)
 
 ## Language
 
