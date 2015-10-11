@@ -25,11 +25,4 @@ guard 'livereload' do
 end
 ```
 
-```ruby
-guard 'livereload' do
-  watch(%r{app/views/.+\.(erb|haml|slim)})
-  watch(%r{app/helpers/.+\.rb}) watch(%r{public/.+\.(css|js|html)})
-  watch(%r{config/locales/.+\.yml})
-  # Rails Assets Pipeline watch(%r{(app|vendor)(/assets/\w+/(.+\.(css|js|html))).*}) { |m| "/assets/#{m[3]}" } end
-```
-
+最后运行`guard` 即可，并在浏览器上点击livereload图标
