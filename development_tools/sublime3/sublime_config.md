@@ -15,6 +15,7 @@ import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7
 ### My plugin
 
 1. Emmet
+    * `ul>li*10>.item>h2+img[src="image-$.jpg"]`
 2. JsFormat
 3. BracketHighlighter
 4. Markdown Extend
