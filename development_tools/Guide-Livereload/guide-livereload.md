@@ -8,7 +8,9 @@
 ### 安装
 
 1. `sudo gem install guard-livereload`
-2. 进入工程目录， `guard init livereload`
+2. 在Gemfile中添加 `gem 'guard-livereload', '~> 2.4', require: false`
+3. 进入工程目录， `guard init livereload`
+
 
 ### 配置
 
