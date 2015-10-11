@@ -8,53 +8,49 @@
 
 ## 资源索引
 
-+ Language
-  + [Javascript](#Javascript)
-  + [C++](#C++)
-  + [HTML/CSS](#HTML/CSS)
-  + [Java](#Java)
-  + [PHP](#PHP)
-  + [Python](#Python)
-  + [Ruby](#Ruby)
-  + [Scala](#Scala)
+* Language
+  * [JavaScript](#JavaScript)
+  * [C**](#C**)
+  * [HTML/CSS](#HTML/CSS)
+  * [Java](#Java)
+  * [PHP](#PHP)
+  * [Python](#Python)
+  * [Ruby](#Ruby)
+  * [Scala](#Scala)
 
-+ Non-Language
-  + [OS](#OS)
-  + [Web](#Web)
-  + [WEB服务器](#WEB服务器)
-  + [NoSQL](#NoSQL)
-  + [MySQL](#MySQL)
-  + [机器学习](#机器学习)
-  + [大数据](#大数据)
-  + [编程艺术](#编程艺术)
-  + [设计模式](#设计模式)
-  + [Git](#Git)
+* Non-Language
+  * [OS](#OS)
+  * [Web](#Web)
+  * [WEB服务器](#WEB服务器)
+  * [NoSQL](#NoSQL)
+  * [MySQL](#MySQL)
+  * [机器学习](#机器学习)
+  * [大数据](#大数据)
+  * [编程艺术](#编程艺术)
+  * [设计模式](#设计模式)
+  * [Git](#Git)
 
 ## Language
 
-### Javascript
+### JavaScript
 
-  + JavaScript高级程序设计
-  + javascript语言精粹
-  + 高性能网站建设(进阶)指南
-  + [JavaScript patterns](https://github.com/jayli/javascript-patterns)
-  + JavaScript权威指南
-
-  + JQuery
-
-  + Node.js
-
-  + AngularJS
+  * JavaScript高级程序设计
+  * javascript语言精粹
+  * 高性能网站建设(进阶)指南
+  * [JavaScript patterns](https://github.com/jayli/javascript-patterns)
+  * JavaScript权威指南
+  * JQuery
+  * Node.js
+  * AngularJS
     * [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
-
-  + CoffeeScript
+  * CoffeeScript
     * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
 
-### C++
+### C**
 
 ### HTML/CSS
-  + [前端代码规范](http://alloyteam.github.io/CodeGuide/)
-  + CSS禅意花园
+  * [前端代码规范](http://alloyteam.github.io/CodeGuide/)
+  * CSS禅意花园
 
 ### Java
 
@@ -76,8 +72,8 @@
 
 ### web
 
-  + [http下午茶](http://happypeter.github.io/tealeaf-http/#chinese)
-  + [正则表达式30分钟入门](http://deerchao.net/tutorials/regex/regex.htm)
+  * [http下午茶](http://happypeter.github.io/tealeaf-http/#chinese)
+  * [正则表达式30分钟入门](http://deerchao.net/tutorials/regex/regex.htm)
 
 ### WEB服务器
 
