@@ -25,6 +25,7 @@ import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7
 9. knockdown
 10. sublime linter
 11. SideBarEnhancements
+12. [Table Editor](https://packagecontrol.io/packages/Table%20Editor)
 
 ### config
 
