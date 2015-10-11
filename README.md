@@ -6,68 +6,89 @@
 4. Git_Guide
 
 
-[操作系统](#操作系统)
+## 资源索引
 
-a
++ Language
+  + [Javascript](#Javascript)
+  + [C++](#C++)
+  + [HTML/CSS](#HTML/CSS)
+  + [Java](#Java)
+  + [PHP](#PHP)
+  + [Python](#Python)
+  + [Ruby](#Ruby)
+  + [Scala](#Scala)
 
-a
++ Non-Language
+  + [OS](#OS)
+  + [Web](#Web)
+  + [WEB服务器](#WEB服务器)
+  + [NoSQL](#NoSQL)
+  + [MySQL](#MySQL)
+  + [机器学习](#机器学习)
+  + [大数据](#大数据)
+  + [编程艺术](#编程艺术)
+  + [设计模式](#设计模式)
+  + [Git](#Git)
 
-a
+## Language
 
-a
+### Javascript
 
-a
+  + JavaScript高级程序设计
+  + javascript语言精粹
+  + 高性能网站建设(进阶)指南
+  + [JavaScript patterns](https://github.com/jayli/javascript-patterns)
+  + JavaScript权威指南
 
+  + JQuery
 
-a
+  + Node.js
 
-a
+  + AngularJS
+    * [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
 
+  + CoffeeScript
+    * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
 
-a
+### C++
 
-a
+### HTML/CSS
+  + [前端代码规范](http://alloyteam.github.io/CodeGuide/)
+  + CSS禅意花园
 
-a
+### Java
 
-a
+### PHP
 
-a
+### Python
 
-a
+### Ruby
 
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-a
-a
-
-a
-a
-a
-aa
-sadasddddddddddddddddddddd
-
-
-
-
-
-### 操作系统
-
-
-asdasdasds
+### Scale
 
 
-sadasd
+
+
+
+## Non-Language
+
+### OS
+
+### web
+
+  + [http下午茶](http://happypeter.github.io/tealeaf-http/#chinese)
+  + [正则表达式30分钟入门](http://deerchao.net/tutorials/regex/regex.htm)
+
+### WEB服务器
+
+### NoSQL
+
+### MySQL
+
+### 机器学习
+
+### 大数据
+
+### 编程艺术
+
+### Git
