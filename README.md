@@ -21,7 +21,7 @@
 * Non-Language
   * [OS](#os)
   * [Web](#web)
-  * [WEB服务器](#WEB服务器)
+  * [WEB服务器](#web服务器)
   * [NoSQL](#nosql)
   * [MySQL](#mysql)
   * [机器学习](#机器学习)
@@ -35,7 +35,9 @@
 ### JavaScript
 
   * JavaScript高级程序设计
+  * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
   * javascript语言精粹
+  * 高性能JavaScript
   * 高性能网站建设(进阶)指南
   * [JavaScript patterns](https://github.com/jayli/javascript-patterns)
   * JavaScript权威指南
