@@ -45,6 +45,8 @@
   * Node.js
   * AngularJS
     * [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
+    * [AngularJS 模式](https://github.com/mgechev/angularjs-in-patterns/blob/master/i18n/README-zh-cn.md)
+    * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
   * CoffeeScript
     * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
 
