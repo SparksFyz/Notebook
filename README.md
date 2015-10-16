@@ -75,9 +75,10 @@
 ### OS
 
 ### web
-
+  * [gulp 入门指南](https://github.com/nimojs/gulp-book)
   * [http下午茶](http://happypeter.github.io/tealeaf-http/#chinese)
   * [正则表达式30分钟入门](http://deerchao.net/tutorials/regex/regex.htm)
+  * TCP/IP详解:卷一
 
 ### WEB服务器
 
