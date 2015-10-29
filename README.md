@@ -43,6 +43,8 @@
   * JavaScript权威指南
   * JQuery
   * Node.js
+    * [Nodejs入门](http://www.nodebeginner.org/index-zh-cn.html)
+    * nodejs开发指南
   * AngularJS
     * [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
     * [AngularJS 模式](https://github.com/mgechev/angularjs-in-patterns/blob/master/i18n/README-zh-cn.md)
@@ -87,6 +89,7 @@
 
 ### NoSQL
   * [The Little MongoDB Book](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
+  * MongoDB权威指南
   * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
 
 ### MySQL
