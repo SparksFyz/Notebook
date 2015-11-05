@@ -61,6 +61,8 @@
 ### Java
 
 ### PHP
+  * [PHP The Right Way](http://laravel-china.github.io/php-the-right-way/)
+  * [PHP Manual](http://php.net/manual/en/index.php)
   * Yii2.0
     * [Yii2.0 Framework Doc](http://www.yiiframework.com/doc-2.0/index.html)
     * [The Definitive Guide to Yii 2.0](http://www.yiiframework.com/doc-2.0/guide-index.html)
