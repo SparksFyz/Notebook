@@ -69,6 +69,10 @@
     * [The Definitive Guide to Yii 2.0](http://www.yiiframework.com/doc-2.0/guide-index.html)
 
 ### Python
+  * [python 入门](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+  * [Django Doc-1.8.2](http://python.usyiyi.cn/django/index.html)
+  * [gevent](http://www.gevent.org/)
+  * [python coroutine code examples](http://www.dabeaz.com/coroutines/)
 
 ### Ruby
 
@@ -87,6 +91,8 @@
   * [http下午茶](http://happypeter.github.io/tealeaf-http/#chinese)
   * [正则表达式30分钟入门](http://deerchao.net/tutorials/regex/regex.htm)
   * TCP/IP详解:卷一
+  * Websockrt:
+      * [Websocket Protocol RFC-6455](https://tools.ietf.org/html/rfc6455)
 
 ### WEB服务器
 
